@@ -47,6 +47,7 @@ class _TabsScreenState extends State<TabsScreen> {
             BottomNavigationBarItem(
               icon: Icon(Icons.category),
               title: Text('Categories'),
+
             ),
             BottomNavigationBarItem(
               icon: Icon(Icons.star),
